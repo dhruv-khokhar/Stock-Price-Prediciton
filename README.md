@@ -6,5 +6,5 @@ Data of Google's stock price over the last 5 years is used for analysis.
 A Long Short-Term Memory (LSTM) network is a type of recurrent neural network (RNN) that excels at processing and predicting sequences of data. It is designed to address the limitations of traditional RNNs by overcoming the vanishing gradient problem, which hinders the ability to capture long-term dependencies in sequential data.
 
 ## Datasets Used
-1. Google_Stock_Price_Train.csv - This dataset is used for training the model.
-2. Google_Stock_Price_Test.csv - This dataset is used for testing the model.
+* Google_Stock_Price_Train.csv - This dataset is used for training the model.
+* Google_Stock_Price_Test.csv - This dataset is used for testing the model.
