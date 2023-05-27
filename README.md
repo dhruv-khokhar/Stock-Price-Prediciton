@@ -1,5 +1,5 @@
 # Stock Price Prediciton using LSTM
-In this project, Google's opening stock price for the month of January(2017) is predicted using Long Short-Term Memory networks.
+In this project, Google's opening stock price for the month of January (2017) is predicted using Long Short-Term Memory networks.
 Data of Google's stock price over the last 5 years is used for analysis.
 
 ## About LSTM
